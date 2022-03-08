@@ -4,6 +4,8 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=araitatsuya-code&theme=onedark&show_icons=ture&count_private=true" />
 </p>
 
+[![](https://raw.githubusercontent.com/araitatsuya-code/araitatsuya-code/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/araitatsuya-code/araitatsuya-code/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/araitatsuya-code/araitatsuya-code/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!--
 **araitatsuya-code/araitatsuya-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
