@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/araitatsuya-code/araitatsuya-code/main/profile-summary-card-output/2077/4-productive-time.svg)
-```
-
-    
